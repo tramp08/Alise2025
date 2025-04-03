@@ -120,4 +120,4 @@ def get_suggests(user_id):
 
 
 if __name__ == '__main__':
-    app.run(port=54321)
+    app.run()
